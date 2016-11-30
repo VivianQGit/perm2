@@ -1,4 +1,4 @@
-# Setup the data
+# Set up the data
 set.seed(3) 
 grp.1 <- round(rlnorm(100, 6)) # With Widget
 grp.2 <- round(rlnorm(100, 6)) # Original page
